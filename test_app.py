@@ -6,3 +6,5 @@ def test_addition():
 
 def test_soustraction():
     assert soustraction(5, 2) == 3
+    assert soustraction(5, 2) == 3
+
